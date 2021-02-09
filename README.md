@@ -1,1 +1,1 @@
-# hello-world
+# hello-world Проект, созданный для обучения
